@@ -1,4 +1,4 @@
 # Проект A/B - тестирование
 В этом проекте мы приоритизируем гипотезы, запускаем A/B-тест и анализируем результаты <br>
 <br>
-Библиотеки: `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
+**Библиотеки**: `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
